@@ -10,7 +10,6 @@
   2. Login.py로 로그인
 
 ## 라이선스 / License
-**Login.py 및 Signup.py는 MIT License를 사용합니다. **
+**Login.py 및 Signup.py는 MIT License를 사용합니다.**
 
-
-**Under MIT License. **
+**Under MIT License.**
